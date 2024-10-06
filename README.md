@@ -26,7 +26,7 @@ All instructions for building, configuring, and running the server are provided 
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/ft_irc.git
+git clone https://github.com/Maeltarh/irc-serveur.git
 ```
 Navigate to the project directory:
 ```

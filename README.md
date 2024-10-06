@@ -30,7 +30,7 @@ git clone https://github.com/Maeltarh/irc-serveur.git
 ```
 Navigate to the project directory:
 ```
-cd ft_irc
+cd irc-server
 ```
 Compile the project:
 ```

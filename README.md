@@ -55,3 +55,6 @@ The server works seamlessly with all current IRC clients, making it easy to test
 The project also includes:
 - File sending: Enable clients to share files.
 - Bot support: Add a bot to manage channels or automate tasks.
+
+#
+*This project is inspired by the "ft_irc" assignment from my curriculum at 42 School.*
